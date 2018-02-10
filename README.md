@@ -16,6 +16,6 @@ A simple and easy to use browser based javascript coding enviroment for novice d
 
 ## Helper Methods
 
-1. ``` print(out) ``` printing output into console area 
-2. ``` println(out) ``` printing output into console area with a line break
+1. ``` print(out) ``` Printing output into console area 
+2. ``` println(out) ``` Printing output into console area with a line break
 3. ``` readLine() ``` Reads a line of input from console input textarea (return String)
