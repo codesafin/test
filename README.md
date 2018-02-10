@@ -8,3 +8,8 @@ A simple and easy to use browser based javascript coding enviroment for novice d
 2. Predefined functions for console like input/output
 3. Saving code in the local disk
 4. Works offline
+
+## Installation
+
+1. Download the project .ZIP from [Github](https://github.com/ovichowdhury) and extract the .ZIP file
+2. Inside the project folder just open 'index.html' file in your preferred browser (latest version of Chrome or Firefox recommended)
