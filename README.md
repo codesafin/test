@@ -19,3 +19,7 @@ A simple and easy to use browser based javascript coding enviroment for novice d
 1. ``` print(out) ``` Printing output into console area 
 2. ``` println(out) ``` Printing output into console area with a line break
 3. ``` readLine() ``` Reads a line of input from console input textarea (return String)
+
+## Researved methods and property name
+
+``` inputQueue, execute(), clearOutputArea(), buildInputQueue(), saveFile() ``` Some of the researved property and functions name for application use. 
