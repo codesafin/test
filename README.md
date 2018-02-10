@@ -24,5 +24,5 @@ A simple and easy to use browser based javascript coding enviroment for novice d
 
 ``` inputQueue, execute(), clearOutputArea(), buildInputQueue(), saveFile() ``` Some of the researved property and functions name for application use. 
 
-
+...
 This project is published under open source [MIT](https://opensource.org/licenses/MIT) license.
